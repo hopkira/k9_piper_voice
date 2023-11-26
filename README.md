@@ -7,7 +7,7 @@ To use the voice you will need to install Michael Hansen's [Piper software](http
 * [arm64](https://github.com/rhasspy/piper/releases/download/v1.2.0/piper_arm64.tar.gz) (64-bit Raspberry Pi 4)
 * [armv7](https://github.com/rhasspy/piper/releases/download/v1.2.0/piper_armv7.tar.gz) (32-bit Raspberry Pi 3/4)
 
-Once this is done you can try out the model using:
+Once this is done you can clone this repository.  You can then try out the model using:
 
 ```sh
 echo 'I am kay nine mark five and I am a very good dog.' | \
