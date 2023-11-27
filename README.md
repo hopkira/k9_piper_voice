@@ -3,8 +3,10 @@ It has taken many hours over many momths to create a training set, but this repo
 
 ## Examples
 ![Rule 1](https://github.com/hopkira/k9_piper_voice/assets/5486945/faccfa9a-dd0d-465e-8e67-b28cb14bb0fe)
-https://github.com/hopkira/k9_piper_voice/assets/5486945/8288f45d-9661-473c-ab21-c2065e168f1d
-https://github.com/hopkira/k9_piper_voice/assets/5486945/cebb2143-87e4-435a-9703-f7b4c4af1d64
+
+![Rule 2](https://github.com/hopkira/k9_piper_voice/assets/5486945/8288f45d-9661-473c-ab21-c2065e168f1d)
+
+![Rule 3](https://github.com/hopkira/k9_piper_voice/assets/5486945/cebb2143-87e4-435a-9703-f7b4c4af1d64)
 
 ## Instructions to use
 
