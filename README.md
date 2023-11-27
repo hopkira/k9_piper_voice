@@ -24,5 +24,5 @@ Once this is done you can clone this repository.  You can then try out the model
 
 ```sh
 echo 'I am kay nine mark five and I am a very good dog.' | \
-  piper -m /path/to/k9_piper_voice/k9_model.onnx --output_file test.wav
+  ./piper -m /path/to/k9_piper_voice/k9_model.onnx --output_file test.wav
 ```
