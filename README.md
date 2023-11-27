@@ -2,9 +2,9 @@
 It has taken many hours over many momths to create a training set, but this repo contains a Piper Text To Speech (TTS) model that makes your Raspberry Pi sound just like K9. Unlike earlier efforts this will run locally on the Raspberry Pi. This is thanks to Michael Hanson's excellent Piper software.
 
 ## Examples
-![Rule 1](https://github.com/hopkira/k9_piper_voice/blob/main/rule1.mp4)
-![Rule 2](https://github.com/hopkira/k9_piper_voice/blob/main/rule1.mp4)
-![Rule 3](https://github.com/hopkira/k9_piper_voice/blob/main/rule1.mp4)
+![Rule 1](rule1.mp4)
+![Rule 2](rule2.mp4)
+![Rule 3](rule3.mp4)
 
 ## Instructions to use
 
