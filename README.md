@@ -4,7 +4,7 @@ It has taken many hours over the last nine months to create a quality training s
 The examples below were generated using the original model that was trained to 1,000 Epochs, but probably overfitted the training set. The alternative model was only trained for around 300 Epochs, and feels slightly more understandable, but is still clearly K9.
 
 ## ROS2 Node
-The voices have now been wrapped in a ROS2 node. For information on how to use and test it please consult [my blog](https://k9-build.blogspot.com/2025/04/ros2-and-piper-tts-on-pi-5.html).
+The voices have now been wrapped in a ROS2 node - k9_tts_node.py. For information on how to use and test it please consult [my blog](https://k9-build.blogspot.com/2025/04/ros2-and-piper-tts-on-pi-5.html).
 
 ## Examples
 
